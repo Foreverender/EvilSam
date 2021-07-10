@@ -23,7 +23,7 @@ class Scene3 extends Phaser.Scene {
     var mask = new Phaser.Display.Masks.GeometryMask(this, graphics);
 
     var blessings = ["Maybe you SHOULD extend your cars warranty!",
-                     "Hardships are the balls of life, but that is where the pee of life is stored.",
+                     "Smells like wrongdog in here.",
                      "Why do they call it oven when you of in the cold food of out hot eat the food.",
                      "Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?",
                      "Have you considered investing in a timeshare?",
