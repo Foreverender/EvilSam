@@ -1,8 +1,15 @@
-body, html {
+body {
   background-color: black;
-  height: 100%;
-  display: grid;
+}
+
+.container {
+  position: relative;
+
   }
 .gameWindow{
-  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
 }
