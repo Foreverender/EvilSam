@@ -30,7 +30,6 @@ class Scene3 extends Phaser.Scene {
                      "Every day is a fresh opportunity to waste.",
                      "You can't have everything. I mean where would you even put it?",
                      "If you give a man a fish... You're just out here giving away fish? Who does that?",
-                     "I am legally obligated to inform you that I am a registered hex offender.",
                      "In the human kingdom, the rule is, yeet or be yeeten.",
                      "Life is uncertain. \n \n \n That's all there's no reassurance here.",
                      "An apple a day can keep almost anybody away if you can throw it hard enough.",
