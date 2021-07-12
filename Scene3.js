@@ -34,7 +34,8 @@ class Scene3 extends Phaser.Scene {
                      "In the human kingdom, the rule is, yeet or be yeeten.",
                      "Life is uncertain. \n \n \n That's all there's no reassurance here.",
                      "An apple a day can keep almost anybody away if you can throw it hard enough.",
-                     "Sometimes your dumbest ideas are the best ones."];
+                     "Sometimes your dumbest ideas are the best ones.",
+                     "I want a story about that corn cob. How did she die? What was her life like? What is her name?"];
 
     var num = Math.floor(Math.random() * Math.floor(blessings.length));
 
