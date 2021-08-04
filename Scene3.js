@@ -35,7 +35,8 @@ class Scene3 extends Phaser.Scene {
                      "An apple a day can keep almost anybody away if you can throw it hard enough.",
                      "Sometimes your dumbest ideas are the best ones.",
                      "I want a story about that corn cob. How did she die? What was her life like? What is her name?",
-                     "Do you think God stays in heaven because he, too, lives in fear of what he's created here on earth?"];
+                     "Do you think God stays in heaven because he, too, lives in fear of what he's created here on earth?",
+                     "To be a real Neapolitan pizza it has to have chocolate, vanilla, and strawberry on it."];
 
     var num = Math.floor(Math.random() * Math.floor(blessings.length));
 
