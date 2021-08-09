@@ -37,7 +37,8 @@ class Scene3 extends Phaser.Scene {
                      "I want a story about that corn cob. How did she die? What was her life like? What is her name?",
                      "Do you think God stays in heaven because he, too, lives in fear of what he's created here on earth?",
                      "To be a real Neapolitan pizza it has to have chocolate, vanilla, and strawberry on it.",
-                     "The harder you work for something, the more tired you will be."];
+                     "The harder you work for something, the more tired you will be.",
+                     "The resolve to make even the smallest decision can lead to greater mistakes!"];
 
     var num = Math.floor(Math.random() * Math.floor(blessings.length));
 
