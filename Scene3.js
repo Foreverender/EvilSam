@@ -39,7 +39,8 @@ class Scene3 extends Phaser.Scene {
                      "To be a real Neapolitan pizza it has to have chocolate, vanilla, and strawberry on it.",
                      "The harder you work for something, the more tired you will be.",
                      "The resolve to make even the smallest decision can lead to greater mistakes!",
-                     "We accept the karma that we think we deserve."];
+                     "We accept the karma that we think we deserve.",
+                     "Did you guys hear about the new law in Hawaii they passed? Due to noise complaints youre no longer allowed to laugh above a certain decibel...\n \n \n now you can only use a low ha"];
 
     var num = Math.floor(Math.random() * Math.floor(blessings.length));
 
