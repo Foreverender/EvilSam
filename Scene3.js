@@ -13,7 +13,7 @@ class Scene3 extends Phaser.Scene {
     samspeaks.setScale(3);
     
     this.samhat = this.add.image(350, 200, "samhat");
-    samhat.setScale(3);
+    this.samhat.setScale(3);
 
     const scrollmove = this.add.sprite(config.width - 550, config.height - 75, "openscroll");
     scrollmove.setScale(3);
