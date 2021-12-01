@@ -15,10 +15,7 @@ class Scene1 extends Phaser.Scene {
       frameWidth: 150,
       frameHeight: 150
     });
-    this.load.spritesheet("samhat", "assets/samsantahat.png", {
-      frameWidth: 150,
-      frameHeight: 150
-    });
+    this.load.image("samhat", "assets/samsantahat.png");
     this.load.spritesheet("openscroll", "assets/openscroll.png", {
       frameWidth: 100,
       frameHeight: 100
