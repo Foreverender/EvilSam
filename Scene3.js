@@ -44,7 +44,8 @@ class Scene3 extends Phaser.Scene {
                      "The resolve to make even the smallest decision can lead to greater mistakes!",
                      "We accept the karma that we think we deserve.",
                      "Did you guys hear about the new law in Hawaii they passed? Due to noise complaints youre no longer allowed to laugh above a certain decibel...\n \n \n now you can only use a low ha",
-                     "Fight viciously over the scraps and crumbs that life allows you."];
+                     "Fight viciously over the scraps and crumbs that life allows you.",
+                     "Things are never so bad that they can't be made worse."];
 
     var num = Math.floor(Math.random() * Math.floor(blessings.length));
 
